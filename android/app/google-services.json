@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374033040982",
+    "project_id": "nonelist-7397b",
+    "storage_bucket": "nonelist-7397b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374033040982:android:824537fc219ce2ee4dddf7",
+        "android_client_info": {
+          "package_name": "com.notelist.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDod9yTptIznuKdzzdslC5zsl06STsM9ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
